@@ -1,2 +1,2 @@
-# Tether - Connecting startups
- It's frontend for new startup idea
+# THUKK - Drawboard
+It is a drawboard which i made using python
